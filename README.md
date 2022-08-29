@@ -2,9 +2,9 @@
 
 - ParkingSpacePicker.py
     
-    1- First select and deselect parking spaces and put them all in a list
+    1- Initially select and deselect parking spaces and put them all in a list
     
-    For this reason, we created posList[]. When we select the point on image, it has only 2 points (x, y)
+    For this reason, we created posList[]. When we select the point on image, it put them(x, y coordinates point) on the list.
     
     1.1- We add weight and height to our points to draw a rectangle.
     
